@@ -1,0 +1,56 @@
+[general]
+name=GeoStar Selector
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+description=Advanced magic wand selection tool for raster layers with PS-like functionality, multi-feature support, keyboard shortcuts, and export capabilities
+version=1.0.1
+icon=logo.png
+author=Zhang Y.H.
+email=zhangyhcumt@163.com
+tags=raster,selection,magic wand,flood fill,export,shortcuts,photoshop
+category=Raster
+homepage=https://github.com/zhangyhrs/GeoStar-Selector-QGIS
+tracker=https://github.com/zhangyhrs/GeoStar-Selector-QGIS/issues
+repository=https://github.com/zhangyhrs/GeoStar-Selector-QGIS
+experimental=False
+deprecated=False
+
+about=GeoStar Selector provides a Photoshop-like magic wand workflow for selecting spectrally similar and spatially connected pixels in raster layers.
+
+    External dependencies: NumPy and OpenCV (cv2).
+
+Key Features:
+    ✓ Multiple Selection Modes: New, Add, Subtract, Intersect (like Photoshop)
+    ✓ Comprehensive Keyboard Shortcuts for efficient workflow
+    ✓ Click to create multiple independent features with visual feedback
+    ✓ Real-time tolerance adjustment with +/- buttons and shortcuts
+    ✓ Export all features to Shapefile (.shp) or GeoJSON (.json)
+    ✓ Undo functionality for last selection
+    ✓ Modifier key support (Shift/Alt/Ctrl combinations)
+    ✓ Enhanced UI with mode indicators and quick actions
+    ✓ Spatial reference system matches the source raster
+    ✓ Advanced flood fill algorithm with configurable connectivity
+
+Keyboard Shortcuts:
+    • W: Activate Magic Wand tool
+    • Shift+W: Switch to Add mode
+    • Alt+W: Switch to Subtract mode
+    • Ctrl+Shift+W: Switch to Intersect mode
+    • Shift+Click: Add to current selection
+    • Alt+Click: Subtract from current selection
+    • Ctrl+Shift+Click: Intersect with current selection
+    • Ctrl++/-: Increase/decrease tolerance
+    • Delete: Clear current layer selections
+    • Ctrl+Delete: Clear all selections
+    • Ctrl+Z: Undo last selection
+
+Perfect for:
+    - Land cover classification refinement
+    - Feature extraction from satellite imagery
+    - Manual correction of automated classifications
+    - Creating training data for machine learning
+    - Detailed raster analysis and digitization
+
+changelog=
+    1.0.1 - Security and quality fix: replaced silent/bare exception handlers with explicit logged cleanup handling for QGIS repository validation.
+    1.0.0 - Initial public release. Includes magic-wand and polygon extraction, QGIS map-tool action binding, reliable crosshair activation, QGIS 3.34 polygon overlay compatibility, RGB raster selection, multi-mode editing, tolerance adjustment, large-image windowed reading, undo and vector export.
