@@ -4,7 +4,7 @@
 [![Release](https://img.shields.io/github/v/release/zhangyhrs/GeoStar-Selector-QGIS)](https://github.com/zhangyhrs/GeoStar-Selector-QGIS/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](magicwand_qgis/LICENSE)
 
-**[简体中文](README.md) | English**
+**English | [简体中文](README_ZH.md)**
 
 ---
 
@@ -64,13 +64,16 @@ NumPy is normally included with QGIS. OpenCV availability depends on the Python 
 
 Follow the **测绘地信** WeChat Official Account for remote sensing, surveying and GIS content. You can also join the **测绘地理信息共享中心** Knowledge Planet community for tools, resources and technical discussions.
 
-<p align="center">
-  <img src="assets/wechat-official-account.png" alt="WeChat Official Account: 测绘地信" width="620">
-</p>
-
-<p align="center">
-  <img src="assets/knowledge-planet.jpg" alt="Knowledge Planet: 测绘地理信息共享中心" width="520">
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%"><strong>WeChat Official Account: 测绘地信</strong></td>
+    <td align="center" width="50%"><strong>Knowledge Planet: 测绘地理信息共享中心</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/wechat-official-account.png" alt="WeChat Official Account: 测绘地信" width="100%"></td>
+    <td align="center"><img src="assets/knowledge-planet.jpg" alt="Knowledge Planet: 测绘地理信息共享中心" width="64%"></td>
+  </tr>
+</table>
 
 ## Author
 
