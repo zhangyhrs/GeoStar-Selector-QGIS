@@ -4,7 +4,7 @@
 [![Release](https://img.shields.io/github/v/release/zhangyhrs/GeoStar-Selector-QGIS)](https://github.com/zhangyhrs/GeoStar-Selector-QGIS/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](magicwand_qgis/LICENSE)
 
-**简体中文 | [English](README_EN.md)**
+**[English](README.md) | 简体中文**
 
 ---
 
@@ -63,13 +63,16 @@ QGIS 通常自带 NumPy；OpenCV 是否可用取决于本机 QGIS Python 环境�
 
 欢迎关注微信公众号 **测绘地信**，获取遥感、测绘与 GIS 技术内容；也可加入知识星球 **测绘地理信息共享中心**，交流软件工具与专业资料。
 
-<p align="center">
-  <img src="assets/wechat-official-account.png" alt="微信公众号：测绘地信" width="620">
-</p>
-
-<p align="center">
-  <img src="assets/knowledge-planet.jpg" alt="知识星球：测绘地理信息共享中心" width="520">
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%"><strong>微信公众号：测绘地信</strong></td>
+    <td align="center" width="50%"><strong>知识星球：测绘地理信息共享中心</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/wechat-official-account.png" alt="微信公众号：测绘地信" width="100%"></td>
+    <td align="center"><img src="assets/knowledge-planet.jpg" alt="知识星球：测绘地理信息共享中心" width="64%"></td>
+  </tr>
+</table>
 
 ## 作者
 
