@@ -1,6 +1,7 @@
 # GeoStar Selector for QGIS
 
 [![QGIS](https://img.shields.io/badge/QGIS-3.x-589632?logo=qgis&logoColor=white)](https://plugins.qgis.org/plugins/magicwand_qgis/)
+![Language](https://img.shields.io/badge/language-Python-3776AB?logo=python&logoColor=white)
 [![Release](https://img.shields.io/github/v/release/zhangyhrs/GeoStar-Selector-QGIS)](https://github.com/zhangyhrs/GeoStar-Selector-QGIS/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](magicwand_qgis/LICENSE)
 
@@ -54,10 +55,15 @@
 ## 运行依赖
 
 - QGIS 3.x
+- Python / PyQGIS
 - NumPy
 - OpenCV（`cv2`）
 
 QGIS 通常自带 NumPy；OpenCV 是否可用取决于本机 QGIS Python 环境。
+
+## 项目入口
+
+[最新版本](https://github.com/zhangyhrs/GeoStar-Selector-QGIS/releases/latest) · [更新记录](CHANGELOG.md) · [问题反馈](https://github.com/zhangyhrs/GeoStar-Selector-QGIS/issues) · [QGIS 官方插件页](https://plugins.qgis.org/plugins/magicwand_qgis/)
 
 ## 关注与交流
 
@@ -77,6 +83,8 @@ QGIS 通常自带 NumPy；OpenCV 是否可用取决于本机 QGIS Python 环境�
 ## 作者
 
 **Zhang Y.H.** · GitHub [@zhangyhrs](https://github.com/zhangyhrs)
+
+相关工具：[SHP2KMZ Tool](https://github.com/zhangyhrs/SHP2KMZ_Tool) · [Map Tile Downloader](https://github.com/zhangyhrs/map_tile_downloader)
 
 ## 许可证
 
