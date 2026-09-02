@@ -1,6 +1,7 @@
 # GeoStar Selector for QGIS
 
 [![QGIS](https://img.shields.io/badge/QGIS-3.x-589632?logo=qgis&logoColor=white)](https://plugins.qgis.org/plugins/magicwand_qgis/)
+![Language](https://img.shields.io/badge/language-Python-3776AB?logo=python&logoColor=white)
 [![Release](https://img.shields.io/github/v/release/zhangyhrs/GeoStar-Selector-QGIS)](https://github.com/zhangyhrs/GeoStar-Selector-QGIS/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](magicwand_qgis/LICENSE)
 
@@ -55,10 +56,15 @@ Open **Plugins → Manage and Install Plugins** in QGIS, search for **GeoStar Se
 ## Requirements
 
 - QGIS 3.x
+- Python / PyQGIS
 - NumPy
 - OpenCV (`cv2`)
 
 NumPy is normally included with QGIS. OpenCV availability depends on the Python environment bundled with your QGIS installation.
+
+## Project links
+
+[Latest release](https://github.com/zhangyhrs/GeoStar-Selector-QGIS/releases/latest) · [Changelog](CHANGELOG.md) · [Report a bug](https://github.com/zhangyhrs/GeoStar-Selector-QGIS/issues) · [QGIS plugin page](https://plugins.qgis.org/plugins/magicwand_qgis/)
 
 ## Follow & Connect
 
@@ -78,6 +84,8 @@ Follow the **测绘地信** WeChat Official Account for remote sensing, surveyin
 ## Author
 
 **Zhang Y.H.** · GitHub [@zhangyhrs](https://github.com/zhangyhrs)
+
+Related: [SHP2KMZ Tool](https://github.com/zhangyhrs/SHP2KMZ_Tool) · [Map Tile Downloader](https://github.com/zhangyhrs/map_tile_downloader)
 
 ## License
 
