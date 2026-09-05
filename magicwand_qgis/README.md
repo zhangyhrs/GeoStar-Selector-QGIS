@@ -66,7 +66,7 @@ QGIS normally includes NumPy. OpenCV availability depends on the QGIS Python env
 
 ## Author
 
-Zhang Y.H.  
+Zhang Y.H. · Yundan Studio  
 GitHub: [@zhangyhrs](https://github.com/zhangyhrs)
 
 ## License
