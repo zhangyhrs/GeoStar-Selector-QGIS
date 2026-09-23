@@ -68,16 +68,18 @@ NumPy is normally included with QGIS. OpenCV availability depends on the Python 
 
 ## Follow & Connect
 
-Follow the **测绘地信** WeChat Official Account for remote sensing, surveying and GIS content. You can also join the **测绘地理信息共享中心** Knowledge Planet community for tools, resources and technical discussions.
+Follow the **测绘地信** WeChat Official Account and Mini Program for remote sensing, surveying and GIS content. You can also join the **测绘地理信息共享中心** Knowledge Planet community for tools, resources and technical discussions.
 
 <table>
   <tr>
-    <td align="center" width="50%"><strong>WeChat Official Account: 测绘地信</strong></td>
-    <td align="center" width="50%"><strong>Knowledge Planet: 测绘地理信息共享中心</strong></td>
+    <td align="center" width="33%"><strong>WeChat Official Account<br>测绘地信</strong></td>
+    <td align="center" width="33%"><strong>WeChat Mini Program<br>测绘地信</strong></td>
+    <td align="center" width="33%"><strong>Knowledge Planet<br>测绘地理信息共享中心</strong></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/wechat-official-account.png" alt="WeChat Official Account: 测绘地信" width="100%"></td>
-    <td align="center"><img src="assets/knowledge-planet.jpg" alt="Knowledge Planet: 测绘地理信息共享中心" width="64%"></td>
+    <td align="center"><img src="assets/wechat-official-account.png" alt="WeChat Official Account: 测绘地信" height="150"></td>
+    <td align="center"><img src="assets/wechat-mini-program.jpg" alt="WeChat Mini Program: 测绘地信" height="150"></td>
+    <td align="center"><img src="assets/knowledge-planet.jpg" alt="Knowledge Planet: 测绘地理信息共享中心" height="150"></td>
   </tr>
 </table>
 
