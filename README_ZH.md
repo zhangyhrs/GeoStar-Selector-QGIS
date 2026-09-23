@@ -67,16 +67,18 @@ QGIS 通常自带 NumPy；OpenCV 是否可用取决于本机 QGIS Python 环境�
 
 ## 关注与交流
 
-欢迎关注微信公众号 **测绘地信**，获取遥感、测绘与 GIS 技术内容；也可加入知识星球 **测绘地理信息共享中心**，交流软件工具与专业资料。
+欢迎关注微信公众号 **测绘地信** 和微信小程序 **测绘地信**，获取遥感、测绘与 GIS 技术内容；也可加入知识星球 **测绘地理信息共享中心**，交流软件工具与专业资料。
 
 <table>
   <tr>
-    <td align="center" width="50%"><strong>微信公众号：测绘地信</strong></td>
-    <td align="center" width="50%"><strong>知识星球：测绘地理信息共享中心</strong></td>
+    <th width="33%">WeChat Official Account<br>微信公众号：测绘地信</th>
+    <th width="33%">WeChat Mini Program<br>微信小程序：测绘地信</th>
+    <th width="33%">Knowledge Planet<br>知识星球：测绘地理信息共享中心</th>
   </tr>
   <tr>
-    <td align="center"><img src="assets/wechat-official-account.png" alt="微信公众号：测绘地信" width="100%"></td>
-    <td align="center"><img src="assets/knowledge-planet.jpg" alt="知识星球：测绘地理信息共享中心" width="64%"></td>
+    <td align="center" valign="middle"><img src="assets/wechat-official-account.png" alt="微信公众号：测绘地信" height="150"></td>
+    <td align="center" valign="middle"><img src="assets/wechat-mini-program.jpg" alt="微信小程序：测绘地信" height="150"></td>
+    <td align="center" valign="middle"><img src="assets/knowledge-planet.jpg" alt="知识星球：测绘地理信息共享中心" height="150"></td>
   </tr>
 </table>
 
