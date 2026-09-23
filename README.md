@@ -72,19 +72,14 @@ Follow the **测绘地信** WeChat Official Account and Mini Program for remote 
 
 <table>
   <tr>
-    <th width="33%">微信公众号</th>
-    <th width="33%">微信小程序</th>
-    <th width="33%">知识星球</th>
+    <th width="33%">WeChat Official Account<br>微信公众号：测绘地信</th>
+    <th width="33%">WeChat Mini Program<br>微信小程序：测绘地信</th>
+    <th width="33%">Knowledge Planet<br>知识星球：测绘地理信息共享中心</th>
   </tr>
   <tr>
-    <td align="center" valign="middle"><img src="assets/wechat-official-account.png" alt="微信公众号：测绘地信" height="150"></td>
-    <td align="center" valign="middle"><img src="assets/wechat-mini-program.jpg" alt="微信小程序：测绘地信" height="150"></td>
-    <td align="center" valign="middle"><img src="assets/knowledge-planet.jpg" alt="知识星球：测绘地理信息共享中心" height="150"></td>
-  </tr>
-  <tr>
-    <td align="center"><b>测绘地信</b></td>
-    <td align="center"><b>测绘地信</b></td>
-    <td align="center"><b>测绘地理信息共享中心</b></td>
+    <td align="center" valign="middle"><img src="assets/wechat-official-account.png" alt="WeChat Official Account / 微信公众号：测绘地信" height="150"></td>
+    <td align="center" valign="middle"><img src="assets/wechat-mini-program.jpg" alt="WeChat Mini Program / 微信小程序：测绘地信" height="150"></td>
+    <td align="center" valign="middle"><img src="assets/knowledge-planet.jpg" alt="Knowledge Planet / 知识星球：测绘地理信息共享中心" height="150"></td>
   </tr>
 </table>
 
